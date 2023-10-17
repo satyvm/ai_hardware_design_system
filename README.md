@@ -1,4 +1,10 @@
 # AI Hardware Design System
-### Course I attended in Seoul National University, Korea.
+### _Course I attended in Seoul National University, Korea_
 
-It has files from: 
+### Tree
+- docs
+    - assignments
+    - lecture
+    - syllabus
+- lab
+- project
