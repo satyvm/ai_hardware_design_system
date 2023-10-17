@@ -1,0 +1,586 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel
+vact_shifter
+Z0 !s110 1687173851
+!i10b 1
+!s100 kTzMmM?Nf:l`e=L3`D_cK2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I9E`i[88nMX5?<8=ETHlWJ1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 d/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021
+w1654761224
+8/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/act_shifter.v
+F/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/act_shifter.v
+!i122 224
+L0 3 39
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1687173851.000000
+!s107 /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/act_shifter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/act_shifter.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vahb_bram
+R0
+!i10b 1
+!s100 ZTe;o@;RlNUP8i@9mRocQ0
+R1
+I`DR@Oo7km_TWcWkBQ_mH`1
+R2
+R3
+Z8 w1642855864
+8/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/ahb_bram.v
+F/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/ahb_bram.v
+!i122 225
+L0 2 124
+R4
+r1
+!s85 0
+31
+R5
+!s107 amba_ahb_h.v|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/ahb_bram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/ahb_bram.v|
+!i113 1
+R6
+R7
+vahb_lite_input_stage
+R0
+!i10b 1
+!s100 e;E2Ba74YEKZlh[6VY7NX2
+R1
+Ila^HeJj0>02K]gSh6<<7=0
+R2
+R3
+R8
+8/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/ahb_lite_input_stage.v
+F/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/ahb_lite_input_stage.v
+!i122 226
+L0 11 264
+R4
+r1
+!s85 0
+31
+R5
+!s107 amba_ahb_decoder_h.v|amba_ahb_arbiter_h.v|amba_ahb_h.v|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/ahb_lite_input_stage.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/ahb_lite_input_stage.v|
+!i113 1
+R6
+R7
+vahb_lite_interconnect
+Z9 !s110 1687173852
+!i10b 1
+!s100 =Ge?eT2ZLka1;`Ci>52da0
+R1
+IQ3Y_TQfhHR04_n?CZ0_W82
+R2
+R3
+R8
+8/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/ahb_lite_interconnect.v
+F/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/ahb_lite_interconnect.v
+!i122 227
+L0 18 221
+R4
+r1
+!s85 0
+31
+R5
+!s107 amba_ahb_decoder_h.v|amba_ahb_arbiter_h.v|amba_ahb_h.v|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/ahb_lite_interconnect.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/ahb_lite_interconnect.v|
+!i113 1
+R6
+R7
+vahb_lite_transactor
+R9
+!i10b 1
+!s100 Vm>Xe92VaL^[M1`4;CmMX0
+R1
+IcD>PAYGgnK85ID9kG1cj^3
+R2
+R3
+R8
+8/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/ahb_lite_transactor.v
+F/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/ahb_lite_transactor.v
+!i122 228
+L0 13 232
+R4
+r1
+!s85 0
+31
+Z10 !s108 1687173852.000000
+!s107 amba_ahb_h.v|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/ahb_lite_transactor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/ahb_lite_transactor.v|
+!i113 1
+R6
+R7
+vahb_master
+R9
+!i10b 1
+!s100 :RT6BbhZnCXdUYfTR@EcI2
+R1
+Ib>?5_=4`6bbEJV1A5UlUz2
+R2
+R3
+R8
+8/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/ahb_master.v
+F/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/ahb_master.v
+!i122 229
+L0 2 153
+R4
+r1
+!s85 0
+31
+R10
+!s107 amba_ahb_h.v|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/ahb_master.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/ahb_master.v|
+!i113 1
+R6
+R7
+vamba_ahb_decoder
+R9
+!i10b 1
+!s100 UadH4I;]W4HXBgf_Ji?zS2
+R1
+I;?7JY9o]4nN>PfPL6O7EQ0
+R2
+R3
+R8
+8/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/amba_ahb_decoder.v
+F/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/amba_ahb_decoder.v
+!i122 230
+L0 14 86
+R4
+r1
+!s85 0
+31
+R10
+!s107 amba_ahb_decoder_h.v|amba_ahb_h.v|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/amba_ahb_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/amba_ahb_decoder.v|
+!i113 1
+R6
+R7
+vamba_ahb_lite_arbiter
+R9
+!i10b 1
+!s100 NeB55_abb9Dj?il[n@<[k3
+R1
+IhP<B6`UeaXLUP4L::;Bd_3
+R2
+R3
+R8
+8/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/amba_ahb_lite_arbiter.v
+F/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/amba_ahb_lite_arbiter.v
+!i122 231
+L0 9 342
+R4
+r1
+!s85 0
+31
+R10
+!s107 amba_ahb_arbiter_h.v|amba_ahb_h.v|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/amba_ahb_lite_arbiter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/amba_ahb_lite_arbiter.v|
+!i113 1
+R6
+R7
+vamba_lite_output_stage
+R9
+!i10b 1
+!s100 ln:QRP4APjo?<7IaKGD6F3
+R1
+I=0SS1]G6jEP]N0]oFbAi[1
+R2
+R3
+R8
+8/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/amba_lite_output_stage.v
+F/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/amba_lite_output_stage.v
+!i122 232
+L0 7 125
+R4
+r1
+!s85 0
+31
+R10
+!s107 amba_ahb_arbiter_h.v|amba_ahb_h.v|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/amba_lite_output_stage.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/amba_lite_output_stage.v|
+!i113 1
+R6
+R7
+vbias_shifter
+R9
+!i10b 1
+!s100 B_Nl3lX?d<ogRDLQ8^h770
+R1
+I]8K_n]?io4`@kCHQDfle>2
+R2
+R3
+w1654761260
+8/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/bias_shifter.v
+F/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/bias_shifter.v
+!i122 233
+L0 3 54
+R4
+r1
+!s85 0
+31
+R10
+!s107 /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/bias_shifter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/bias_shifter.v|
+!i113 1
+R6
+R7
+vbmp_image_writer
+R9
+!i10b 1
+!s100 UAZ`0gSE[8=YMSCh^CM>?3
+R1
+IFJ>EFB18]FdF9:Eg5:e4`1
+R2
+R3
+R8
+8/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/bmp_image_writer.v
+F/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/bmp_image_writer.v
+!i122 234
+L0 3 141
+R4
+r1
+!s85 0
+31
+R10
+!s107 /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/bmp_image_writer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/bmp_image_writer.v|
+!i113 1
+R6
+R7
+vbmp_image_writer_2x
+R9
+!i10b 1
+!s100 CbF2^i5OAlzEhgbCoFX^Z2
+R1
+IaA7_2G1R?cZO3`cl61Dh03
+R2
+R3
+w1687171849
+8/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/bmp_image_writer_2x.v
+F/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/bmp_image_writer_2x.v
+!i122 235
+L0 3 162
+R4
+r1
+!s85 0
+31
+R10
+!s107 /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/bmp_image_writer_2x.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/bmp_image_writer_2x.v|
+!i113 1
+R6
+R7
+vbnorm_quant_act
+R9
+!i10b 1
+!s100 ]o2j1OShZ6]FVJQJkML<10
+R1
+I:GcH>i=bFJ^fUfjFNi^Eo0
+R2
+R3
+w1622460050
+8/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/bnorm_quant_act.v
+F/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/bnorm_quant_act.v
+!i122 236
+L0 3 136
+R4
+r1
+!s85 0
+31
+R10
+!s107 debug.v|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/bnorm_quant_act.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/bnorm_quant_act.v|
+!i113 1
+R6
+R7
+vbram
+R9
+!i10b 1
+!s100 g_E:@eZLi5MfIQj9hBJAk0
+R1
+IDBoXnkWk7McjTgih8N5Xo2
+R2
+R3
+R8
+8/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/bram.v
+F/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/bram.v
+!i122 237
+Z11 L0 1 45
+R4
+r1
+!s85 0
+31
+R10
+!s107 /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/bram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/bram.v|
+!i113 1
+R6
+R7
+vcnn_accel
+R9
+!i10b 1
+!s100 H4Ai7JZNj_XOO6XWG^jQ[0
+R1
+IfRLB3jMlWN_9D^:H;`A_W2
+R2
+R3
+w1687173828
+8/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/cnn_accel.v
+F/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/cnn_accel.v
+!i122 238
+L0 4 1008
+R4
+r1
+!s85 0
+31
+R10
+!s107 debug.v|map.v|amba_ahb_h.v|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/cnn_accel.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/cnn_accel.v|
+!i113 1
+R6
+R7
+vcnn_fsm
+Z12 !s110 1687173853
+!i10b 1
+!s100 kKGzA@RYFY=obQbM5[MVz1
+R1
+IbMA`=;21_fK7NMMZD_cOg2
+R2
+R3
+R8
+8/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/cnn_fsm.v
+F/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/cnn_fsm.v
+!i122 239
+L0 3 203
+R4
+r1
+!s85 0
+31
+R10
+!s107 map.v|amba_ahb_h.v|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/cnn_fsm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/cnn_fsm.v|
+!i113 1
+R6
+R7
+vconv_kern
+R12
+!i10b 1
+!s100 T7L5Oha7>fUE_;RF?6_ig3
+R1
+I4Mb:ZZioQ[l453LjW:2hX2
+R2
+R3
+R8
+8/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/conv_kern.v
+F/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/conv_kern.v
+!i122 240
+L0 1 77
+R4
+r1
+!s85 0
+31
+Z13 !s108 1687173853.000000
+!s107 /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/conv_kern.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/conv_kern.v|
+!i113 1
+R6
+R7
+vdma2buf
+R12
+!i10b 1
+!s100 iIa4UI[SDJONoa;2Xm@9E1
+R1
+I[^3Zm>ddd9K4WN[GCj=QU2
+R2
+R3
+R8
+8/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/dma2buf.v
+F/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/dma2buf.v
+!i122 241
+L0 12 349
+R4
+r1
+!s85 0
+31
+R13
+!s107 amba_ahb_h.v|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/dma2buf.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/dma2buf.v|
+!i113 1
+R6
+R7
+vdpram
+R12
+!i10b 1
+!s100 9Y10W>;<IAAGHRCTZ[:1l1
+R1
+I^2TJ`5C^MBEcI7:nco7[70
+R2
+R3
+R8
+8/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/dpram.v
+F/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/dpram.v
+!i122 242
+L0 1 84
+R4
+r1
+!s85 0
+31
+R13
+!s107 /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/dpram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/dpram.v|
+!i113 1
+R6
+R7
+vmac
+R12
+!i10b 1
+!s100 f0PAA3mkTN>m68FT04fBH1
+R1
+I0O3gRfOYNM>nWm_ngl]kF1
+R2
+R3
+R8
+8/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/mac.v
+F/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/mac.v
+!i122 243
+L0 1 118
+R4
+r1
+!s85 0
+31
+R13
+!s107 /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/mac.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/mac.v|
+!i113 1
+R6
+R7
+vmac_kern
+R12
+!i10b 1
+!s100 QDiRAfICmZP`4n87PBG@]0
+R1
+IOY_3HbG3^;E8oje7O[Vg23
+R2
+R3
+R8
+8/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/mac_kern.v
+F/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/mac_kern.v
+!i122 244
+L0 1 120
+R4
+r1
+!s85 0
+31
+R13
+!s107 /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/mac_kern.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/mac_kern.v|
+!i113 1
+R6
+R7
+vmul
+R12
+!i10b 1
+!s100 KoN4k^=_Zi5c_C?dSVgnJ1
+R1
+Ih=obHTXB?4lXkmgzQ_FCa3
+R2
+R3
+R8
+8/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/mul.v
+F/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/mul.v
+!i122 245
+L0 1 10
+R4
+r1
+!s85 0
+31
+R13
+!s107 /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/mul.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/mul.v|
+!i113 1
+R6
+R7
+vspram
+R12
+!i10b 1
+!s100 ]Jl[`>SFh0WE[WOO2>==W0
+R1
+IJO0CIX74bD:6QM2GVYHXQ2
+R2
+R3
+R8
+8/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/spram.v
+F/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/spram.v
+!i122 246
+R11
+R4
+r1
+!s85 0
+31
+R13
+!s107 /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/spram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/spram.v|
+!i113 1
+R6
+R7
+vtop_system
+R12
+!i10b 1
+!s100 H2b_:j2bF;>ebF:9T8f[i2
+R1
+IcZOea7ZgQccMFOC^H;^Wi2
+R2
+R3
+w1685395906
+8/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/top_system.v
+F/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/top_system.v
+!i122 247
+L0 4 354
+R4
+r1
+!s85 0
+31
+R13
+!s107 map.v|amba_ahb_h.v|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/top_system.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/top_system.v|
+!i113 1
+R6
+R7
+vtop_system_tb
+R12
+!i10b 1
+!s100 ZjR^5bacAEoe3<znm5_bT2
+R1
+I]UoQnB`Ce<jj1R`?1FkAS1
+R2
+R3
+w1687164681
+8/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/top_system_tb.v
+F/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/top_system_tb.v
+!i122 248
+L0 5 333
+R4
+r1
+!s85 0
+31
+R13
+!s107 debug.v|map.v|amba_ahb_h.v|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/top_system_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel_ssai2021/top_system_tb.v|
+!i113 1
+R6
+R7

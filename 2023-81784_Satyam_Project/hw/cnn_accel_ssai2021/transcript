@@ -1,0 +1,596 @@
+# Loading project project_ssai2021
+# reading /home/atl/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project Project_cnn_opt
+# reading /home/atl/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project Project_cnn_opt
+# Compile of act_shifter.v was successful.
+# Compile of ahb_bram.v was successful.
+# Compile of ahb_lite_input_stage.v was successful.
+# Compile of ahb_lite_interconnect.v was successful.
+# Compile of ahb_lite_transactor.v was successful.
+# Compile of ahb_master.v was successful.
+# Compile of amba_ahb_arbiter_h.v was successful.
+# Compile of amba_ahb_decoder.v was successful.
+# Compile of amba_ahb_decoder_h.v was successful.
+# Compile of amba_ahb_h.v was successful.
+# Compile of amba_ahb_lite_arbiter.v was successful.
+# Compile of amba_lite_output_stage.v was successful.
+# Compile of bias_shifter.v was successful.
+# Compile of bmp_image_writer.v was successful.
+# Compile of bmp_image_writer_2x.v was successful.
+# Compile of bnorm_quant_act.v was successful.
+# Compile of bram.v was successful.
+# Compile of cnn_accel.v was successful.
+# Compile of cnn_fsm.v was successful.
+# Compile of conv_kern.v was successful.
+# Compile of debug.v was successful.
+# Compile of dma2buf.v was successful.
+# Compile of dpram.v was successful.
+# Compile of mac.v was successful.
+# Compile of mac_kern.v was successful.
+# Compile of map.v was successful.
+# Compile of mul.v was successful.
+# Compile of spram.v was successful.
+# Compile of top_system.v was successful.
+# Compile of top_system_tb.v was successful.
+# 30 compiles, 0 failed with no errors.
+vsim work.top_system_tb
+# vsim work.top_system_tb 
+# Start time: 14:48:13 on Jun 20,2023
+# Loading work.top_system_tb
+# Loading work.top_system
+# Loading work.ahb_master
+# Loading work.ahb_bram
+# Loading work.cnn_accel
+# Loading work.cnn_fsm
+# Loading work.dma2buf
+# Loading work.ahb_lite_transactor
+# Loading work.spram
+# Loading work.dpram
+# Loading work.ahb_lite_interconnect
+# Loading work.bram
+# Loading work.bmp_image_writer
+# Loading work.bmp_image_writer_2x
+# Loading work.conv_kern
+# Loading work.mac_kern
+# Loading work.mac
+# Loading work.mul
+# Loading work.bnorm_quant_act
+# Loading work.bias_shifter
+# Loading work.act_shifter
+# Loading work.ahb_lite_input_stage
+# Loading work.amba_ahb_decoder
+# Loading work.amba_lite_output_stage
+# Loading work.amba_ahb_lite_arbiter
+# WARNING: No extended dataflow license exists
+do /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel/wave.do
+# ** UI-Msg: (vish-4014) No objects found matching '/top_system_tb/u_top_system/u_cnn_accel/px'.
+# Executing ONERROR command at macro /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel/wave.do line 186
+# ** UI-Msg: (vish-4014) No objects found matching '/top_system_tb/u_top_system/u_cnn_accel/pr1'.
+# Executing ONERROR command at macro /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel/wave.do line 188
+# ** UI-Msg: (vish-4014) No objects found matching '/top_system_tb/u_top_system/u_cnn_accel/pr2'.
+# Executing ONERROR command at macro /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel/wave.do line 189
+# ** UI-Msg: (vish-4014) No objects found matching '/top_system_tb/u_top_system/u_cnn_accel/pr3'.
+# Executing ONERROR command at macro /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel/wave.do line 190
+# ** UI-Msg: (vish-4014) No objects found matching '/top_system_tb/u_top_system/u_cnn_accel/pr4'.
+# Executing ONERROR command at macro /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel/wave.do line 191
+# ** UI-Msg: (vish-4014) No objects found matching '/top_system_tb/u_top_system/u_cnn_accel/rec1'.
+# Executing ONERROR command at macro /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel/wave.do line 192
+# ** UI-Msg: (vish-4014) No objects found matching '/top_system_tb/u_top_system/u_cnn_accel/rec2'.
+# Executing ONERROR command at macro /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel/wave.do line 193
+# ** UI-Msg: (vish-4014) No objects found matching '/top_system_tb/u_top_system/u_cnn_accel/rec3'.
+# Executing ONERROR command at macro /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel/wave.do line 194
+# ** UI-Msg: (vish-4014) No objects found matching '/top_system_tb/u_top_system/u_cnn_accel/rec4'.
+# Executing ONERROR command at macro /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel/wave.do line 195
+# ** UI-Msg: (vish-4014) No objects found matching '/top_system_tb/u_top_system/u_cnn_accel/temp1'.
+# Executing ONERROR command at macro /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel/wave.do line 196
+# ** UI-Msg: (vish-4014) No objects found matching '/top_system_tb/u_top_system/u_cnn_accel/temp2'.
+# Executing ONERROR command at macro /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel/wave.do line 197
+# ** UI-Msg: (vish-4014) No objects found matching '/top_system_tb/u_top_system/u_cnn_accel/temp3'.
+# Executing ONERROR command at macro /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel/wave.do line 198
+# ** UI-Msg: (vish-4014) No objects found matching '/top_system_tb/u_top_system/u_cnn_accel/temp4'.
+# Executing ONERROR command at macro /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel/wave.do line 199
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+### Loading internal memory from input_data/all_conv_weights.hex ###
+### Loading internal memory from input_data/all_conv_biases.hex ###
+### Loading internal memory from input_data/all_conv_scales.hex ###
+### Loading internal memory from img/butterfly_32bit_reorder.hex ###
+# T=186005 ns: FAST loading the image by DMA is DONE!!!
+# 
+# T=561085 ns: Layer 1 done!!!
+# 
+add wave -position 114  sim:/top_system_tb/u_top_system/u_cnn_accel/data_o_ld
+restart
+run
+### Loading internal memory from input_data/all_conv_weights.hex ###
+### Loading internal memory from input_data/all_conv_biases.hex ###
+### Loading internal memory from input_data/all_conv_scales.hex ###
+### Loading internal memory from img/butterfly_32bit_reorder.hex ###
+# T=186005 ns: FAST loading the image by DMA is DONE!!!
+# 
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel/wave.do
+quit -sim
+# End time: 14:58:07 on Jun 20,2023, Elapsed time: 0:09:54
+# Errors: 0, Warnings: 1
+# Compile of act_shifter.v was successful.
+# Compile of ahb_bram.v was successful.
+# Compile of ahb_lite_input_stage.v was successful.
+# Compile of ahb_lite_interconnect.v was successful.
+# Compile of ahb_lite_transactor.v was successful.
+# Compile of ahb_master.v was successful.
+# Compile of amba_ahb_arbiter_h.v was successful.
+# Compile of amba_ahb_decoder.v was successful.
+# Compile of amba_ahb_decoder_h.v was successful.
+# Compile of amba_ahb_h.v was successful.
+# Compile of amba_ahb_lite_arbiter.v was successful.
+# Compile of amba_lite_output_stage.v was successful.
+# Compile of bias_shifter.v was successful.
+# Compile of bmp_image_writer.v was successful.
+# Compile of bmp_image_writer_2x.v was successful.
+# Compile of bnorm_quant_act.v was successful.
+# Compile of bram.v was successful.
+# Compile of cnn_accel.v failed with 3 errors.
+# Compile of cnn_fsm.v was successful.
+# Compile of conv_kern.v was successful.
+# Compile of debug.v was successful.
+# Compile of dma2buf.v was successful.
+# Compile of dpram.v was successful.
+# Compile of mac.v was successful.
+# Compile of mac_kern.v was successful.
+# Compile of map.v was successful.
+# Compile of mul.v was successful.
+# Compile of spram.v was successful.
+# Compile of top_system.v was successful.
+# Compile of top_system_tb.v was successful.
+# 30 compiles, 1 failed with 3 errors.
+# Compile of act_shifter.v was successful.
+# Compile of ahb_bram.v was successful.
+# Compile of ahb_lite_input_stage.v was successful.
+# Compile of ahb_lite_interconnect.v was successful.
+# Compile of ahb_lite_transactor.v was successful.
+# Compile of ahb_master.v was successful.
+# Compile of amba_ahb_arbiter_h.v was successful.
+# Compile of amba_ahb_decoder.v was successful.
+# Compile of amba_ahb_decoder_h.v was successful.
+# Compile of amba_ahb_h.v was successful.
+# Compile of amba_ahb_lite_arbiter.v was successful.
+# Compile of amba_lite_output_stage.v was successful.
+# Compile of bias_shifter.v was successful.
+# Compile of bmp_image_writer.v was successful.
+# Compile of bmp_image_writer_2x.v was successful.
+# Compile of bnorm_quant_act.v was successful.
+# Compile of bram.v was successful.
+# Compile of cnn_accel.v was successful.
+# Compile of cnn_fsm.v was successful.
+# Compile of conv_kern.v was successful.
+# Compile of debug.v was successful.
+# Compile of dma2buf.v was successful.
+# Compile of dpram.v was successful.
+# Compile of mac.v was successful.
+# Compile of mac_kern.v was successful.
+# Compile of map.v was successful.
+# Compile of mul.v was successful.
+# Compile of spram.v was successful.
+# Compile of top_system.v was successful.
+# Compile of top_system_tb.v was successful.
+# 30 compiles, 0 failed with no errors.
+vsim work.top_system_tb
+# vsim work.top_system_tb 
+# Start time: 15:02:31 on Jun 20,2023
+# Loading work.top_system_tb
+# Loading work.top_system
+# Loading work.ahb_master
+# Loading work.ahb_bram
+# Loading work.cnn_accel
+# Loading work.cnn_fsm
+# Loading work.dma2buf
+# Loading work.ahb_lite_transactor
+# Loading work.spram
+# Loading work.dpram
+# Loading work.ahb_lite_interconnect
+# Loading work.bram
+# Loading work.bmp_image_writer
+# Loading work.bmp_image_writer_2x
+# Loading work.conv_kern
+# Loading work.mac_kern
+# Loading work.mac
+# Loading work.mul
+# Loading work.bnorm_quant_act
+# Loading work.bias_shifter
+# Loading work.act_shifter
+# Loading work.ahb_lite_input_stage
+# Loading work.amba_ahb_decoder
+# Loading work.amba_lite_output_stage
+# Loading work.amba_ahb_lite_arbiter
+do /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel/wave.do
+run
+### Loading internal memory from input_data/all_conv_weights.hex ###
+### Loading internal memory from input_data/all_conv_biases.hex ###
+### Loading internal memory from input_data/all_conv_scales.hex ###
+### Loading internal memory from img/butterfly_32bit_reorder.hex ###
+# WARNING: No extended dataflow license exists
+# Paste insertion failed: load_image_done: ** UI-Msg: (vish-4014) No objects found matching 'load_image_done'.
+add wave -position 114  sim:/top_system_tb/u_top_system/u_cnn_accel/load_image_done
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+quit -sim
+# End time: 15:06:20 on Jun 20,2023, Elapsed time: 0:03:49
+# Errors: 0, Warnings: 1
+# Compile of act_shifter.v was successful.
+# Compile of ahb_bram.v was successful.
+# Compile of ahb_lite_input_stage.v was successful.
+# Compile of ahb_lite_interconnect.v was successful.
+# Compile of ahb_lite_transactor.v was successful.
+# Compile of ahb_master.v was successful.
+# Compile of amba_ahb_arbiter_h.v was successful.
+# Compile of amba_ahb_decoder.v was successful.
+# Compile of amba_ahb_decoder_h.v was successful.
+# Compile of amba_ahb_h.v was successful.
+# Compile of amba_ahb_lite_arbiter.v was successful.
+# Compile of amba_lite_output_stage.v was successful.
+# Compile of bias_shifter.v was successful.
+# Compile of bmp_image_writer.v was successful.
+# Compile of bmp_image_writer_2x.v was successful.
+# Compile of bnorm_quant_act.v was successful.
+# Compile of bram.v was successful.
+# Compile of cnn_accel.v was successful.
+# Compile of cnn_fsm.v was successful.
+# Compile of conv_kern.v was successful.
+# Compile of debug.v was successful.
+# Compile of dma2buf.v was successful.
+# Compile of dpram.v was successful.
+# Compile of mac.v was successful.
+# Compile of mac_kern.v was successful.
+# Compile of map.v was successful.
+# Compile of mul.v was successful.
+# Compile of spram.v was successful.
+# Compile of top_system.v was successful.
+# Compile of top_system_tb.v was successful.
+# 30 compiles, 0 failed with no errors.
+vsim work.top_system_tb
+# vsim work.top_system_tb 
+# Start time: 15:06:24 on Jun 20,2023
+# Loading work.top_system_tb
+# Loading work.top_system
+# Loading work.ahb_master
+# Loading work.ahb_bram
+# Loading work.cnn_accel
+# Loading work.cnn_fsm
+# Loading work.dma2buf
+# Loading work.ahb_lite_transactor
+# Loading work.spram
+# Loading work.dpram
+# Loading work.ahb_lite_interconnect
+# Loading work.bram
+# Loading work.bmp_image_writer
+# Loading work.bmp_image_writer_2x
+# Loading work.conv_kern
+# Loading work.mac_kern
+# Loading work.mac
+# Loading work.mul
+# Loading work.bnorm_quant_act
+# Loading work.bias_shifter
+# Loading work.act_shifter
+# Loading work.ahb_lite_input_stage
+# Loading work.amba_ahb_decoder
+# Loading work.amba_lite_output_stage
+# Loading work.amba_ahb_lite_arbiter
+do /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel/wave.do
+add wave -position 114  sim:/top_system_tb/u_top_system/u_cnn_accel/load_image_done
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel/wave.do
+# WARNING: No extended dataflow license exists
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+### Loading internal memory from input_data/all_conv_weights.hex ###
+### Loading internal memory from input_data/all_conv_biases.hex ###
+### Loading internal memory from input_data/all_conv_scales.hex ###
+### Loading internal memory from img/butterfly_32bit_reorder.hex ###
+add wave -position 114  sim:/top_system_tb/u_top_system/u_cnn_accel/start_line_ld
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel/wave.do
+add wave -position 115  sim:/top_system_tb/u_top_system/u_cnn_accel/start_addr_ld
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel/wave.do
+quit -sim
+# End time: 15:09:31 on Jun 20,2023, Elapsed time: 0:03:07
+# Errors: 0, Warnings: 1
+# Compile of act_shifter.v was successful.
+# Compile of ahb_bram.v was successful.
+# Compile of ahb_lite_input_stage.v was successful.
+# Compile of ahb_lite_interconnect.v was successful.
+# Compile of ahb_lite_transactor.v was successful.
+# Compile of ahb_master.v was successful.
+# Compile of amba_ahb_arbiter_h.v was successful.
+# Compile of amba_ahb_decoder.v was successful.
+# Compile of amba_ahb_decoder_h.v was successful.
+# Compile of amba_ahb_h.v was successful.
+# Compile of amba_ahb_lite_arbiter.v was successful.
+# Compile of amba_lite_output_stage.v was successful.
+# Compile of bias_shifter.v was successful.
+# Compile of bmp_image_writer.v was successful.
+# Compile of bmp_image_writer_2x.v was successful.
+# Compile of bnorm_quant_act.v was successful.
+# Compile of bram.v was successful.
+# Compile of cnn_accel.v was successful.
+# Compile of cnn_fsm.v was successful.
+# Compile of conv_kern.v was successful.
+# Compile of debug.v was successful.
+# Compile of dma2buf.v was successful.
+# Compile of dpram.v was successful.
+# Compile of mac.v was successful.
+# Compile of mac_kern.v was successful.
+# Compile of map.v was successful.
+# Compile of mul.v was successful.
+# Compile of spram.v was successful.
+# Compile of top_system.v was successful.
+# Compile of top_system_tb.v was successful.
+# 30 compiles, 0 failed with no errors.
+vsim work.top_system_tb
+# vsim work.top_system_tb 
+# Start time: 15:09:34 on Jun 20,2023
+# Loading work.top_system_tb
+# Loading work.top_system
+# Loading work.ahb_master
+# Loading work.ahb_bram
+# Loading work.cnn_accel
+# Loading work.cnn_fsm
+# Loading work.dma2buf
+# Loading work.ahb_lite_transactor
+# Loading work.spram
+# Loading work.dpram
+# Loading work.ahb_lite_interconnect
+# Loading work.bram
+# Loading work.bmp_image_writer
+# Loading work.bmp_image_writer_2x
+# Loading work.conv_kern
+# Loading work.mac_kern
+# Loading work.mac
+# Loading work.mul
+# Loading work.bnorm_quant_act
+# Loading work.bias_shifter
+# Loading work.act_shifter
+# Loading work.ahb_lite_input_stage
+# Loading work.amba_ahb_decoder
+# Loading work.amba_lite_output_stage
+# Loading work.amba_ahb_lite_arbiter
+do /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel/wave.do
+run
+### Loading internal memory from input_data/all_conv_weights.hex ###
+### Loading internal memory from input_data/all_conv_biases.hex ###
+### Loading internal memory from input_data/all_conv_scales.hex ###
+### Loading internal memory from img/butterfly_32bit_reorder.hex ###
+# WARNING: No extended dataflow license exists
+# T=186365 ns: FAST loading the image by DMA is DONE!!!
+# 
+# T=561445 ns: Layer 1 done!!!
+# 
+quit -smi
+# unknown switch: -smi
+quit -sim
+# End time: 15:12:03 on Jun 20,2023, Elapsed time: 0:02:29
+# Errors: 0, Warnings: 3
+quit -sim
+# Compile of act_shifter.v was successful.
+# Compile of ahb_bram.v was successful.
+# Compile of ahb_lite_input_stage.v was successful.
+# Compile of ahb_lite_interconnect.v was successful.
+# Compile of ahb_lite_transactor.v was successful.
+# Compile of ahb_master.v was successful.
+# Compile of amba_ahb_arbiter_h.v was successful.
+# Compile of amba_ahb_decoder.v was successful.
+# Compile of amba_ahb_decoder_h.v was successful.
+# Compile of amba_ahb_h.v was successful.
+# Compile of amba_ahb_lite_arbiter.v was successful.
+# Compile of amba_lite_output_stage.v was successful.
+# Compile of bias_shifter.v was successful.
+# Compile of bmp_image_writer.v was successful.
+# Compile of bmp_image_writer_2x.v was successful.
+# Compile of bnorm_quant_act.v was successful.
+# Compile of bram.v was successful.
+# Compile of cnn_accel.v was successful.
+# Compile of cnn_fsm.v was successful.
+# Compile of conv_kern.v was successful.
+# Compile of debug.v was successful.
+# Compile of dma2buf.v was successful.
+# Compile of dpram.v was successful.
+# Compile of mac.v was successful.
+# Compile of mac_kern.v was successful.
+# Compile of map.v was successful.
+# Compile of mul.v was successful.
+# Compile of spram.v was successful.
+# Compile of top_system.v was successful.
+# Compile of top_system_tb.v was successful.
+# 30 compiles, 0 failed with no errors.
+vsim work.top_system_tb
+# vsim work.top_system_tb 
+# Start time: 15:12:11 on Jun 20,2023
+# Loading work.top_system_tb
+# Loading work.top_system
+# Loading work.ahb_master
+# Loading work.ahb_bram
+# Loading work.cnn_accel
+# Loading work.cnn_fsm
+# Loading work.dma2buf
+# Loading work.ahb_lite_transactor
+# Loading work.spram
+# Loading work.dpram
+# Loading work.ahb_lite_interconnect
+# Loading work.bram
+# Loading work.bmp_image_writer
+# Loading work.bmp_image_writer_2x
+# Loading work.conv_kern
+# Loading work.mac_kern
+# Loading work.mac
+# Loading work.mul
+# Loading work.bnorm_quant_act
+# Loading work.bias_shifter
+# Loading work.act_shifter
+# Loading work.ahb_lite_input_stage
+# Loading work.amba_ahb_decoder
+# Loading work.amba_lite_output_stage
+# Loading work.amba_ahb_lite_arbiter
+do /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel/wave.do
+# WARNING: No extended dataflow license exists
+run
+### Loading internal memory from input_data/all_conv_weights.hex ###
+### Loading internal memory from input_data/all_conv_biases.hex ###
+### Loading internal memory from input_data/all_conv_scales.hex ###
+### Loading internal memory from img/butterfly_32bit_reorder.hex ###
+quit -sim
+# End time: 15:17:46 on Jun 20,2023, Elapsed time: 0:05:35
+# Errors: 0, Warnings: 3
+quit -sim
+# Compile of act_shifter.v was successful.
+# Compile of ahb_bram.v was successful.
+# Compile of ahb_lite_input_stage.v was successful.
+# Compile of ahb_lite_interconnect.v was successful.
+# Compile of ahb_lite_transactor.v was successful.
+# Compile of ahb_master.v was successful.
+# Compile of amba_ahb_arbiter_h.v was successful.
+# Compile of amba_ahb_decoder.v was successful.
+# Compile of amba_ahb_decoder_h.v was successful.
+# Compile of amba_ahb_h.v was successful.
+# Compile of amba_ahb_lite_arbiter.v was successful.
+# Compile of amba_lite_output_stage.v was successful.
+# Compile of bias_shifter.v was successful.
+# Compile of bmp_image_writer.v was successful.
+# Compile of bmp_image_writer_2x.v was successful.
+# Compile of bnorm_quant_act.v was successful.
+# Compile of bram.v was successful.
+# Compile of cnn_accel.v was successful.
+# Compile of cnn_fsm.v was successful.
+# Compile of conv_kern.v was successful.
+# Compile of debug.v was successful.
+# Compile of dma2buf.v was successful.
+# Compile of dpram.v was successful.
+# Compile of mac.v was successful.
+# Compile of mac_kern.v was successful.
+# Compile of map.v was successful.
+# Compile of mul.v was successful.
+# Compile of spram.v was successful.
+# Compile of top_system.v was successful.
+# Compile of top_system_tb.v was successful.
+# 30 compiles, 0 failed with no errors.
+vsim work.top_system_tb
+# vsim work.top_system_tb 
+# Start time: 15:18:26 on Jun 20,2023
+# Loading work.top_system_tb
+# Loading work.top_system
+# Loading work.ahb_master
+# Loading work.ahb_bram
+# Loading work.cnn_accel
+# Loading work.cnn_fsm
+# Loading work.dma2buf
+# Loading work.ahb_lite_transactor
+# Loading work.spram
+# Loading work.dpram
+# Loading work.ahb_lite_interconnect
+# Loading work.bram
+# Loading work.bmp_image_writer
+# Loading work.bmp_image_writer_2x
+# Loading work.conv_kern
+# Loading work.mac_kern
+# Loading work.mac
+# Loading work.mul
+# Loading work.bnorm_quant_act
+# Loading work.bias_shifter
+# Loading work.act_shifter
+# Loading work.ahb_lite_input_stage
+# Loading work.amba_ahb_decoder
+# Loading work.amba_lite_output_stage
+# Loading work.amba_ahb_lite_arbiter
+do /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel/wave.do
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+### Loading internal memory from input_data/all_conv_weights.hex ###
+### Loading internal memory from input_data/all_conv_biases.hex ###
+### Loading internal memory from input_data/all_conv_scales.hex ###
+### Loading internal memory from img/butterfly_32bit_reorder.hex ###
+# WARNING: No extended dataflow license exists
+# T=49085 ns: FAST loading the image by DMA is DONE!!!
+# 
+# T=424165 ns: Layer 1 done!!!
+# 
+quit -sim
+# End time: 15:22:08 on Jun 20,2023, Elapsed time: 0:03:42
+# Errors: 0, Warnings: 1
+# Compile of act_shifter.v was successful.
+# Compile of ahb_bram.v was successful.
+# Compile of ahb_lite_input_stage.v was successful.
+# Compile of ahb_lite_interconnect.v was successful.
+# Compile of ahb_lite_transactor.v was successful.
+# Compile of ahb_master.v was successful.
+# Compile of amba_ahb_arbiter_h.v was successful.
+# Compile of amba_ahb_decoder.v was successful.
+# Compile of amba_ahb_decoder_h.v was successful.
+# Compile of amba_ahb_h.v was successful.
+# Compile of amba_ahb_lite_arbiter.v was successful.
+# Compile of amba_lite_output_stage.v was successful.
+# Compile of bias_shifter.v was successful.
+# Compile of bmp_image_writer.v was successful.
+# Compile of bmp_image_writer_2x.v was successful.
+# Compile of bnorm_quant_act.v was successful.
+# Compile of bram.v was successful.
+# Compile of cnn_accel.v was successful.
+# Compile of cnn_fsm.v was successful.
+# Compile of conv_kern.v was successful.
+# Compile of debug.v was successful.
+# Compile of dma2buf.v was successful.
+# Compile of dpram.v was successful.
+# Compile of mac.v was successful.
+# Compile of mac_kern.v was successful.
+# Compile of map.v was successful.
+# Compile of mul.v was successful.
+# Compile of spram.v was successful.
+# Compile of top_system.v was successful.
+# Compile of top_system_tb.v was successful.
+# 30 compiles, 0 failed with no errors.
+vsim work.top_system_tb
+# vsim work.top_system_tb 
+# Start time: 15:22:16 on Jun 20,2023
+# Loading work.top_system_tb
+# Loading work.top_system
+# Loading work.ahb_master
+# Loading work.ahb_bram
+# Loading work.cnn_accel
+# Loading work.cnn_fsm
+# Loading work.dma2buf
+# Loading work.ahb_lite_transactor
+# Loading work.spram
+# Loading work.dpram
+# Loading work.ahb_lite_interconnect
+# Loading work.bram
+# Loading work.bmp_image_writer
+# Loading work.bmp_image_writer_2x
+# Loading work.conv_kern
+# Loading work.mac_kern
+# Loading work.mac
+# Loading work.mul
+# Loading work.bnorm_quant_act
+# Loading work.bias_shifter
+# Loading work.act_shifter
+# Loading work.ahb_lite_input_stage
+# Loading work.amba_ahb_decoder
+# Loading work.amba_lite_output_stage
+# Loading work.amba_ahb_lite_arbiter
+do /home/atl/Bureau/COURS_INSA/4A/SNU/cours/AI_Hardware/Project/hw/cnn_accel/wave.do
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+### Loading internal memory from input_data/all_conv_weights.hex ###
+### Loading internal memory from input_data/all_conv_biases.hex ###
+### Loading internal memory from input_data/all_conv_scales.hex ###
+### Loading internal memory from img/butterfly_32bit_reorder.hex ###
+# WARNING: No extended dataflow license exists
+# T=46685 ns: FAST loading the image by DMA is DONE!!!
+# 
+# T=421765 ns: Layer 1 done!!!
+# 
+# T=2106365 ns: Layer 2 done!!!
+# 
+# T=3790965 ns: Layer 3 done!!!
+# 
+# End time: 17:16:57 on Jun 20,2023, Elapsed time: 1:54:41
+# Errors: 0, Warnings: 2
